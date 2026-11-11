@@ -7,9 +7,11 @@ Me chamo Andre Panizza, tenho 38 anos e sou São paulo. Sou formado pela Uniasse
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperAndreXa&show_icons=true)
 
 <br>
-
+<div style="display: inline_block"><br>
 [![Andre Panizza GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperAndreX&show_icons=true)](https://github.com/DeveloperAndreX/github-readme-stats)
 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  </div>
 
